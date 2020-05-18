@@ -2,12 +2,13 @@ const resume = {
   name: "Low Zi Jian",
   email: "lowbak1998@gmail.com",
   contact: "018-7880225",
-  address: "Cheras , KL",
+  address: "Bandar Damai Perdana , Cheras , KL",
   fullAddress:
     "No.11 Taman Damai Impian 2, 2/8A Jalan Damai Impian, 56000 Kuala Lumpur.",
   isFullTime: true,
-  profession: "Software Engineering",
-  professionalSummary: "",
+  profession: "Software Engineer",
+  careerObjective:
+    "A software engineering graduate from UTAR who is seeking to find a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company. ",
   workExperience: [
     {
       title: "Intern Web App Developer",
@@ -17,6 +18,7 @@ const resume = {
       duration: 3,
       unit: "month",
       isFullTime: true,
+      workContent: ["Develop front end layout ", "Fix UI bug"],
     },
   ],
   education: {
