@@ -9,13 +9,13 @@ const Navbar = () => (
     <Container className="resumeNavBar">
       <div style={{ flex: 5 }}>
         <Button>
-          <Link to="/" className="resumeNavItem">
+          <Link to="/Portfolio/" className="resumeNavItem">
             ABOUT ME
           </Link>
         </Button>
 
         <Button>
-          <Link to="/resume" className="resumeNavItem">
+          <Link to="/Portfolio/resume" className="resumeNavItem">
             RESUME
           </Link>
         </Button>

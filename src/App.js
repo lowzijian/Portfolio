@@ -5,9 +5,9 @@ import Aboutme from "./view/AboutMe";
 import Navbar from "./components/Navbar";
 
 const routes = [
-  { path: "/", Interface: <Aboutme />, isExact: true },
-  { path: "/resume", Interface: <Resume /> },
-  { path: "/aboutMe", Interface: <Aboutme /> },
+  { path: "/Portfolio/", Interface: <Aboutme />, isExact: true },
+  { path: "/Portfolio/resume", Interface: <Resume /> },
+  { path: "/Portfolio/aboutMe", Interface: <Aboutme /> },
 ];
 
 function App() {
