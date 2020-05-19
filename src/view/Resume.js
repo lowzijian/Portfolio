@@ -61,12 +61,14 @@ import learningIcon from "../media/learning.svg";
 import patienceIcon from "../media/patience.svg";
 import teamIcon from "../media/team.svg";
 
+import profilePic from "../media/profilePic.png";
+
 import { resume } from "../Data";
 
 function Resume() {
   const [totalWorkingYear, _setTotalWorkingYear] = useState(0);
   const [totalWorkingMonths, _setTotalWorkingMonths] = useState(0);
-  const [isModalOpen, _setModalOpen] = useState(true);
+  const [isModalOpen, _setModalOpen] = useState(false);
   const theme = useTheme();
   const fullScreen = useMediaQuery(theme.breakpoints.down("sm"));
 
@@ -238,8 +240,8 @@ function Resume() {
               <div className="resumeSection">
                 <div className="resumeContainer">
                   <Avatar
-                    alt="Remy Sharp"
-                    src="/static/images/avatar/1.jpg"
+                    alt={resume?.name}
+                    src={profilePic}
                     className="resumeAvatar"
                   />
                 </div>
