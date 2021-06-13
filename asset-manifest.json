@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.f4d125a0.chunk.css",
-    "main.js": "/Portfolio/static/js/main.a86d6204.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.a86d6204.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.46c86217.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.46c86217.js.map",
-    "static/js/2.f9ea22c9.chunk.js": "/Portfolio/static/js/2.f9ea22c9.chunk.js",
-    "static/js/2.f9ea22c9.chunk.js.map": "/Portfolio/static/js/2.f9ea22c9.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.7381e13b.chunk.css",
+    "main.js": "/Portfolio/static/js/main.ace3ebb8.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.ace3ebb8.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.7d4f3dd6.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.7d4f3dd6.js.map",
+    "static/js/2.bded879d.chunk.js": "/Portfolio/static/js/2.bded879d.chunk.js",
+    "static/js/2.bded879d.chunk.js.map": "/Portfolio/static/js/2.bded879d.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.96071f59150e61067a524c382d082284.js": "/Portfolio/precache-manifest.96071f59150e61067a524c382d082284.js",
+    "precache-manifest.30f809eca8a30fefd5fdf91f75d006da.js": "/Portfolio/precache-manifest.30f809eca8a30fefd5fdf91f75d006da.js",
     "service-worker.js": "/Portfolio/service-worker.js",
-    "static/css/main.f4d125a0.chunk.css.map": "/Portfolio/static/css/main.f4d125a0.chunk.css.map",
-    "static/js/2.f9ea22c9.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.f9ea22c9.chunk.js.LICENSE.txt",
+    "static/css/main.7381e13b.chunk.css.map": "/Portfolio/static/css/main.7381e13b.chunk.css.map",
+    "static/js/2.bded879d.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.bded879d.chunk.js.LICENSE.txt",
     "static/media/Oswald.ttf": "/Portfolio/static/media/Oswald.df16477d.ttf",
     "static/media/RobotoBold.ttf": "/Portfolio/static/media/RobotoBold.e07df86c.ttf",
     "static/media/RobotoRegular.ttf": "/Portfolio/static/media/RobotoRegular.11eabca2.ttf",
     "static/media/RobotoThin.ttf": "/Portfolio/static/media/RobotoThin.321de678.ttf",
     "static/media/ScrumMobile.png": "/Portfolio/static/media/ScrumMobile.cbb99d04.png",
     "static/media/ScrumWeb.png": "/Portfolio/static/media/ScrumWeb.844e771d.png",
-    "static/media/adapt.svg": "/Portfolio/static/media/adapt.c5e9cb35.svg",
+    "static/media/adapt.svg": "/Portfolio/static/media/adapt.24add6ec.svg",
     "static/media/coding.svg": "/Portfolio/static/media/coding.2521d313.svg",
     "static/media/creativeThinking.svg": "/Portfolio/static/media/creativeThinking.0d2b7027.svg",
     "static/media/discover.svg": "/Portfolio/static/media/discover.f049b515.svg",
@@ -35,9 +35,9 @@
     "static/media/travel2.png": "/Portfolio/static/media/travel2.2a44c72f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.46c86217.js",
-    "static/js/2.f9ea22c9.chunk.js",
-    "static/css/main.f4d125a0.chunk.css",
-    "static/js/main.a86d6204.chunk.js"
+    "static/js/runtime-main.7d4f3dd6.js",
+    "static/js/2.bded879d.chunk.js",
+    "static/css/main.7381e13b.chunk.css",
+    "static/js/main.ace3ebb8.chunk.js"
   ]
 }
