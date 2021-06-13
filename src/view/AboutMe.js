@@ -154,9 +154,9 @@ function Aboutme() {
             ) : (
               <p>No Information</p>
             )}
-            <Button variant="outlined" href={project?.fyi}>
+            {/* <Button variant="outlined" href={project?.fyi}>
               Explore Now
-            </Button>
+            </Button> */}
           </CardContent>
         </Collapse>
       </Card>

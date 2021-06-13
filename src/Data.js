@@ -134,7 +134,6 @@ const recentProjects = [
     description:
       "UTAR Final Year Project . Developed using React Native. A mobile application which allows Scrum users to keep track of their projects and tasks remotely",
     timeline: "January 2020 - May 2020",
-    fyi: "https://github.com/lowzijian/ScrumMobile",
     screenShots: [
       {
         img: "scrummobile1",
@@ -153,7 +152,6 @@ const recentProjects = [
     description:
       "UTAR Final Year Project . Developed using React. A web application which allows Scrum masters to manage projects and sprints concurrently ,in sync with the Scrum Mobile App",
     timeline: "January 2020 - May 2020",
-    fyi: "https://scrumfyp.web.app",
     screenShots: [
       {
         img: "scrumweb1",
@@ -172,7 +170,6 @@ const recentProjects = [
     description:
       "A Web application created using Laravel Framework , allows user to manage their travel bucket ideas and destination ",
     timeline: "January 2020 - May 2020",
-    fyi: "https://github.com/lowzijian/Travel-Bucketlist-Management-System",
     screenShots: [
       {
         img: "travel1",
