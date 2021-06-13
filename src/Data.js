@@ -2,9 +2,7 @@ const resume = {
   name: "Low Zi Jian",
   email: "lowbak1998@gmail.com",
   contact: "018-7880225",
-  address: "Bandar Damai Perdana , Cheras , KL",
-  fullAddress:
-    "No.11 Taman Damai Impian 2, 2/8A Jalan Damai Impian, 56000 Kuala Lumpur.",
+  address: "Cheras , KL",
   isFullTime: true,
   profession: "Software Engineer",
   careerObjective:

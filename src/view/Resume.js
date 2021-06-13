@@ -565,7 +565,6 @@ function Resume() {
                     <Text>
                       {resume?.email} | {resume?.contact}{" "}
                     </Text>
-                    <Text>{resume?.fullAddress}</Text>
                   </View>
                 </View>
 
